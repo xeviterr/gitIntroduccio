@@ -16,5 +16,14 @@ namespace WindowsFormsApplication1
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show(suma(1,1).ToString());
+        }
+        private int suma(int x, int y)
+        {
+            return x + y;
+        }
     }
 }
