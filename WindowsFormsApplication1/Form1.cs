@@ -20,6 +20,7 @@ namespace WindowsFormsApplication1
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show(suma(1,1).ToString());
+            MessageBox.Show(suma(2, 2).ToString());
         }
         private int suma(int x, int y)
         {
