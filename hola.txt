@@ -1,3 +1,5 @@
 hola soc un fitxer.
 hola soc un pringat.
 Soc un altre pringat...
+
+Avui hem començat M5.
